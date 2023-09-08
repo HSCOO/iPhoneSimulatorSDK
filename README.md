@@ -3,6 +3,8 @@ iPhoneSimulator SDK, iPhoneSimulator support
 
 All simulator versions are [here](https://devimages-cdn.apple.com/downloads/xcode/simulators/index2.dvtdownloadableindex)
 
+See other answers [here](https://stackoverflow.com/questions/57828476/how-to-install-older-ios-runtimes-on-newer-xcode/57847263?noredirect=1#comment135851865_57847263)
+
 [17.0.b8](https://download.developer.apple.com/Developer_Tools/iOS_17_beta_8_Simulator_Runtime/iOS_17_beta_8_Simulator_Runtime.dmg)
 [17.0.b7](https://download.developer.apple.com/Developer_Tools/iOS_17_beta_7_Simulator_Runtime/iOS_17_beta_7_Simulator_Runtime.dmg)
 [17.0.b5](https://download.developer.apple.com/Developer_Tools/iOS_17_beta_5_Simulator_Runtime/iOS_17_beta_5_Simulator_Runtime.dmg)
